@@ -25,7 +25,7 @@
 <a href="https://github.com/W01fh4cker/Serein">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=W01fh4cker&repo=Serein&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/W01fh4cker/HunterXray">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=W01fh4cker&repo=HunterXray&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=W01fh4cker&repo=Karlin&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 
