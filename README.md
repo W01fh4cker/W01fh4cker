@@ -3,7 +3,7 @@
 #  🙋 Hello
 
 - Hello! I'm `W01fh4cker`.I'm grad to meet you.
-- I've a Web Security ethusiast and code lover.
+- I've a Web Security Ethusiast and Code Lover.
 - You can follow me and improve together,then witness each other's growth.
 
 <div>
